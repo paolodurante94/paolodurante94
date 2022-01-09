@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paolo Durante
 - :mortar_board: Currently studying Computer science at Ca' Foscari University of Venice. I'm learning several coding languages like C, C++, Java, Visual FoxPro.
-- :computer: Working as an IT Specialist in AMA CRAI Est, Montebelluna, TV. 
+- :computer: Working as an IT Product Specialist in PAT Srl - Zucchetti Group, Montebelluna, TV. 
 - :recycle: Usual activities: bug fixing on FoxPro and Java; data analysis and processing on Microsoft SQL, PostgreSQL, FoxPro; processes management; team organization and support.
 - 📫 You can reach me by email at paolo.durante94@gmail.com and on LinkedIn at the following link: www.linkedin.com/in/paolo-durante94
 
